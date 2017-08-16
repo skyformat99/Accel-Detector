@@ -1,0 +1,65 @@
+*** Creating Trace Output File '..\MDK\Obj\Project.tra' Ok.
+### Preparing for ADS-LD.
+### Creating ADS-LD Command Line
+### List of Objects: adding '"..\mdk\obj\startup_stm32f10x_md.o"'
+### List of Objects: adding '"..\mdk\obj\core_cm3.o"'
+### List of Objects: adding '"..\mdk\obj\system_stm32f10x.o"'
+### List of Objects: adding '"..\mdk\obj\misc.o"'
+### List of Objects: adding '"..\mdk\obj\stm32f10x_rcc.o"'
+### List of Objects: adding '"..\mdk\obj\stm32f10x_exti.o"'
+### List of Objects: adding '"..\mdk\obj\stm32f10x_gpio.o"'
+### List of Objects: adding '"..\mdk\obj\stm32f10x_tim.o"'
+### List of Objects: adding '"..\mdk\obj\stm32f10x_usart.o"'
+### List of Objects: adding '"..\mdk\obj\stm32f10x_bkp.o"'
+### List of Objects: adding '"..\mdk\obj\stm32f10x_pwr.o"'
+### List of Objects: adding '"..\mdk\obj\stm32f10x_rtc.o"'
+### List of Objects: adding '"..\mdk\obj\stm32f10x_spi.o"'
+### List of Objects: adding '"..\mdk\obj\stm32f10x_adc.o"'
+### List of Objects: adding '"..\mdk\obj\stm32f10x_flash.o"'
+### List of Objects: adding '"..\mdk\obj\stm32f10x_iwdg.o"'
+### List of Objects: adding '"..\mdk\obj\stm32f10x_dma.o"'
+### List of Objects: adding '"..\mdk\obj\rcc.o"'
+### List of Objects: adding '"..\mdk\obj\nvic.o"'
+### List of Objects: adding '"..\mdk\obj\tim.o"'
+### List of Objects: adding '"..\mdk\obj\usart.o"'
+### List of Objects: adding '"..\mdk\obj\adc.o"'
+### List of Objects: adding '"..\mdk\obj\led.o"'
+### List of Objects: adding '"..\mdk\obj\key.o"'
+### List of Objects: adding '"..\mdk\obj\stm32f10x_it.o"'
+### List of Objects: adding '"..\mdk\obj\rtc.o"'
+### List of Objects: adding '"..\mdk\obj\flash.o"'
+### List of Objects: adding '"..\mdk\obj\mpu6000.o"'
+### List of Objects: adding '"..\mdk\obj\sdcard.o"'
+### List of Objects: adding '"..\mdk\obj\lm240120.o"'
+### List of Objects: adding '"..\mdk\obj\menu.o"'
+### List of Objects: adding '"..\mdk\obj\item.o"'
+### List of Objects: adding '"..\mdk\obj\ir.o"'
+### List of Objects: adding '"..\mdk\obj\sim900a.o"'
+### List of Objects: adding '"..\mdk\obj\main.o"'
+### List of Objects: adding '"..\mdk\obj\delay.o"'
+### List of Objects: adding '"..\mdk\obj\param.o"'
+### List of Objects: adding '"..\mdk\obj\disp.o"'
+### List of Objects: adding '"..\mdk\obj\graph.o"'
+### List of Objects: adding '"..\mdk\obj\queue.o"'
+### List of Objects: adding '"..\mdk\obj\filter.o"'
+### List of Objects: adding '"..\mdk\obj\diskio.o"'
+### List of Objects: adding '"..\mdk\obj\ff.o"'
+### List of Objects: adding '"..\mdk\obj\ccsbcs.o"'
+### List of Objects: adding '"..\mdk\obj\inv_mpu.o"'
+### List of Objects: adding '"..\mdk\obj\inv_mpu_dmp_motion_driver.o"'
+### ADS-LD Command completed:
+--cpu Cortex-M3 "..\mdk\obj\startup_stm32f10x_md.o" "..\mdk\obj\core_cm3.o" "..\mdk\obj\system_stm32f10x.o" "..\mdk\obj\misc.o" "..\mdk\obj\stm32f10x_rcc.o" "..\mdk\obj\stm32f10x_exti.o" "..\mdk\obj\stm32f10x_gpio.o" "..\mdk\obj\stm32f10x_tim.o" "..\mdk\obj\stm32f10x_usart.o" "..\mdk\obj\stm32f10x_bkp.o" "..\mdk\obj\stm32f10x_pwr.o" "..\mdk\obj\stm32f10x_rtc.o" "..\mdk\obj\stm32f10x_spi.o" "..\mdk\obj\stm32f10x_adc.o" "..\mdk\obj\stm32f10x_flash.o" "..\mdk\obj\stm32f10x_iwdg.o" "..\mdk\obj\stm32f10x_dma.o" "..\mdk\obj\rcc.o" "..\mdk\obj\nvic.o" "..\mdk\obj\tim.o" "..\mdk\obj\usart.o" "..\mdk\obj\adc.o" "..\mdk\obj\led.o" "..\mdk\obj\key.o" "..\mdk\obj\stm32f10x_it.o" "..\mdk\obj\rtc.o" "..\mdk\obj\flash.o" "..\mdk\obj\mpu6000.o" "..\mdk\obj\sdcard.o" "..\mdk\obj\lm240120.o" "..\mdk\obj\menu.o" "..\mdk\obj\item.o" "..\mdk\obj\ir.o" "..\mdk\obj\sim900a.o" "..\mdk\obj\main.o" "..\mdk\obj\delay.o" "..\mdk\obj\param.o" "..\mdk\obj\disp.o" "..\mdk\obj\graph.o" "..\mdk\obj\queue.o" "..\mdk\obj\filter.o" "..\mdk\obj\diskio.o" "..\mdk\obj\ff.o" "..\mdk\obj\ccsbcs.o" "..\mdk\obj\inv_mpu.o" "..\mdk\obj\inv_mpu_dmp_motion_driver.o" 
+--strict --scatter "..\MDK\Obj\Project.sct" 
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list ".\Project.map" -o ..\MDK\Obj\Project.axf### Preparing Environment (PrepEnvAds)
+### ADS-LD Output File: '..\MDK\Obj\Project.axf'
+### ADS-LD Command File: '..\MDK\Obj\Project.lnp'
+### Checking for dirty Components...
+### Creating CmdFile '..\MDK\Obj\Project.lnp', Handle=0x00000D30
+### Writing '.lnp' file
+### ADS-LD Command file '..\MDK\Obj\Project.lnp' is ready.
+### ADS-LD: About to start ADS-LD Thread.
+### ADS-LD: executed with 0 errors
+### Updating obj list
+### LDADS_file() completed.
